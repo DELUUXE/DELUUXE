@@ -7,7 +7,7 @@ I'm also familiar with docker and kubernetes.
 
 <br><br>
 ## 🤖 Discord bot
-I am currently maintaining a discord bot which has over 100000 discord servers connected.\
+I am currently maintaining a discord bot which has over 210000 discord servers connected.\
 You can find out more about that here: https://24-7music.com/
 
 #### Tech-stack / skills
@@ -49,7 +49,7 @@ I also had a part-time job and internship where I worked with react and react-na
 
 <br><br>
 ## 🏫 Study
-I also completed a Software Development [MBO Niveau 4](https://www.nuffic.nl/en/subjects/education-and-diplomas-the-netherlands/#content-skip:~:text=MBO%204,programme%20or%20an%20HBO%20bachelor%20programme.) study in the netherlands.
+I also completed a Software Development [MBO Niveau 4](https://www.nuffic.nl/en/education-systems/netherlands/secondary-vocational-education#:~:text=level%204%20(middle-management%20training%2C%20middenkaderopleiding)%20lasts%203%20or%204%20years%20and%20leads%20to%20an%20mbo%20diploma%20at%20level%204.) study in the netherlands.
 
 #### Tech-Stack / skills
 - Basics HTML, CSS and JS (i know pretty much all of my current javascript knowledge from self study)
