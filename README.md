@@ -7,17 +7,21 @@ I'm also familiar with docker and kubernetes.
 
 <br><br>
 ## 🤖 Discord bot
-I am currently maintaining a discord bot which has over 210000 discord servers connected.\
+I am currently maintaining a discord bot which has over 300000 discord servers connected.\
 You can find out more about that here: https://24-7music.com/
 
 #### Tech-stack / skills
 - Javascript
 - Node.js
 - MSSQL
+- HTML
+- CSS
 - git
 - github / gitlab
 - Docker
 - Kubernetes
+- Grafana
+- Redis
 - Interaction with various apis
 - Operating at scale
 - Managing and setting up multiple servers
