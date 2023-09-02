@@ -1,17 +1,10 @@
-# Well, hello there
-##### "_[General Kenobi](https://www.youtube.com/watch?v=rEq1Z0bjdwc)_"
-
-<br>
-
-My name is Luuk, check out a few of the projects i've worked on and what techstacks i work with:
-
 [![Skill icons](https://skillicons.dev/icons?i=nodejs,js,css,html,cs,java,react,svelte,nginx,docker,kubernetes,grafana,cloudflare,ae,ps)](https://github.com/deluuxe)
 
 <br>
 
 ## [<img src="https://www.24-7music.com/assets/24-7bot logo v4.128.png" alt="24/7music bot logo" width="25"/>](https://24-7music.com) Discord bot
 ![Bot status](https://top.gg/api/widget/status/369208607126061057.svg?noavatar=true) ![Server count](https://top.gg/api/widget/servers/369208607126061057.svg?noavatar=true) ![upvote](https://top.gg/api/widget/upvotes/369208607126061057.svg?noavatar=true) \
-I am currently maintaining a discord bot which has over 400000 discord servers connected.\
+I am currently maintaining a discord bot which has over 500000 discord servers connected.\
 You can find out more about that here: https://24-7music.com/
 
 #### Tech-stack / skills
@@ -81,6 +74,4 @@ I also completed a Software Development [MBO Niveau 4](https://www.nuffic.nl/en/
 
 ## Other
 
-Have a chat with me on [discord](https://discordapp.com/channels/@me) at:\
-``DELUUXE#1608``
-<br><sub><sup>_Tripple click the discord tag to copy_</sub></sup>
+Have a chat with me on [discord](https://discord.com/users/266613136403070978)
