@@ -1,4 +1,4 @@
-[![Skill icons](https://skillicons.dev/icons?i=nodejs,js,css,html,cs,java,react,svelte,nginx,docker,kubernetes,grafana,cloudflare,ae,ps)](https://github.com/deluuxe)
+[![Skill icons](https://skillicons.dev/icons?i=nodejs,rust,js,css,html,cs,java,react,svelte,nginx,docker,kubernetes,grafana,cloudflare)](https://github.com/deluuxe)
 
 <br>
 
